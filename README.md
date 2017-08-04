@@ -1,1 +1,1 @@
-This is the README.md for the sampe_website.
+This is the README.md for the sample_website.
